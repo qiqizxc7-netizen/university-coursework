@@ -1,3 +1,5 @@
+[![CI Pipeline](https://github.com/qiqizxc7-netizen/university-coursework/actions/workflows/ci.yml/badge.svg)](https://github.com/qiqizxc7-netizen/university-coursework/actions/workflows/ci.yml)
+
 # Coursework
 Intro
 Chapter 1
